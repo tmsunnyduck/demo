@@ -6,5 +6,7 @@ this is sample text need to do something in this thing
 def func() :
     for i in range(0,15) :
         print hello
+        if i < 10 :
+            printf fuck off
 
 ```
